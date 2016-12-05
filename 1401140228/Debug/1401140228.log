@@ -1,0 +1,22 @@
+﻿  StdAfx.cpp
+D:\visual studio\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  D:\visual studio\VC\atlmfc\include\afx.h(33): note: see declaration of 'MBCS_Support_Deprecated_In_MFC'
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  RGB.cpp
+  Pi2.cpp
+  P2.cpp
+  MainFrm.cpp
+  Line.cpp
+  IN.cpp
+  Fill.cpp
+  CTransform.cpp
+  Bucket.cpp
+  AET.cpp
+  1401140228View.cpp
+  1401140228Doc.cpp
+  1401140228.cpp
+1401140228.cpp(60): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+  D:\visual studio\VC\atlmfc\include\afxwin.h(5224): note: see declaration of 'CWinApp::Enable3dControls'
+  Generating Code...
+  LINK : program database F:\MFC\1401140228\Debug\1401140228.pdb missing; performing full link
+  1401140228.vcxproj -> F:\MFC\1401140228\.\Debug\1401140228.exe
